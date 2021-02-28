@@ -45,4 +45,6 @@ Course materials for visual basic &amp; visual basic for applications for feb/ma
 -	30 minutes assessment on Visual Basic
 -	30 minutes assessment on visual basic for applications with excel
 
+###### Course Materials created by the **Race Academy**
+###### Course Materials moderated by **Sayyid Khan**
 
