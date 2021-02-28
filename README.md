@@ -42,7 +42,7 @@ Course materials for visual basic &amp; visual basic for applications for feb/ma
 
 -	Revision for Visual Basic
 -	Revision for Visual Basic for applications with Excel
--	45 minutes / 1-hour assessment on Visual Basic
--	45 minutes / 1-hour assessment on visual basic for applications with excel
+-	30 minutes assessment on Visual Basic
+-	30 minutes assessment on visual basic for applications with excel
 
 
