@@ -25,7 +25,7 @@ Course materials for visual basic &amp; visual basic for applications for feb/ma
 -	VBA-L8 - String Manipulation (No Exercises)
 -	VBA-L9 – Array (No Exercises)
 
-#### Total Exercises to submit for VBA: 5
+#### Total Exercises to submit for VBA: 4
 
 ## Day 3
 ### Learning Visual Basics
