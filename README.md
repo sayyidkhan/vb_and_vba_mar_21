@@ -20,24 +20,24 @@ Course materials for visual basic &amp; visual basic for applications for feb/ma
 -	VBA-L3 - Creating Workbook and Worksheet object (No Exercises)
 -	VBA-L4 – Range Object (Exercises)
 -	VBA-L5 – Variables (No Exercises)
+
+#### Total Exercises to submit for VBA: 2
+
+## Day 3
+### Learning Visual Basics Applications with Excel
+
 -	VBA-L6 – Conditional Statements (Exercises)
 -	VBA-L7 – Loops (Exercises)
 -	VBA-L8 - String Manipulation (No Exercises)
 -	VBA-L9 – Array (No Exercises)
 
-#### Total Exercises to submit for VBA: 4
-
-## Day 3
-### Learning Visual Basics
-
--	VB-L3 - Object properties and methods (Exercises)
--	VB-L4 - Algorithm planning and refinement (Exercises)
--	VB-L5 – Decisions and debugging (No Exercise) (Need to submit hands on work)
--	VB-L6 – Looping constructs (Exercises)
-
 #### Total Exercises to submit VB: 5
 
 ## Day 4
+### Learning Visual Basics
+
+-	VB-L3 - Object properties and methods (Exercises)
+
 ### Revision & Test
 
 -	Revision for Visual Basic
